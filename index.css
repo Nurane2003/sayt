@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.apple{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(216, 210, 210);
+    width: 360px;
+    height: 400px;
+    border-radius: 6px;
+}
+.apple h2{
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  padding-top: 20px;
+  
+}
+.apple img{
+    width: 300px;
+    height: 200px;
+}
+p{
+    font-size: larger;
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+    border: none;
+    padding: 9px;
+    border-radius: 8px;
+    
+}
+.pear{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(216, 210, 210);
+    width: 360px;
+    height: 400px;
+    border-radius: 6px;
+}
+.pear h2{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  padding-top: 20px;
+}
+.pear img{
+    width: 300px;
+    height: 200px;
+}
+.orange{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(216, 210, 210);
+    width: 360px;
+    height: 400px;
+    border-radius: 6px;
+
+}
+.orange h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.orange img{
+    width: 300px;
+    height: 200px;
+
+}
+.tomato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(216, 210, 210);
+    width: 360px;
+    height: 400px;
+    border-radius: 6px;
+}
+.tomato h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.tomato img{
+    width: 300px;
+    height: 200px;
+
+}
+.end{
+    display: flex;
+    gap: 20px;
+}
+
+
+
